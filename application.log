@@ -1,0 +1,7 @@
+[DEBUG] [2016-11-09 13:11:47]: pokus
+[INFO] [2016-19-09 13:19:54]: first multilogger attempt
+[ERROR] [2016-25-09 13:25:10]: test of pragmaticlogger
+[INFO] [2016-49-09 23:49:19] pokus o logger pomoci inheritance
+[WARNING] [2016-12-10 00:12:15] warning and higher Class: cz.codecamp.logger.LoggerTester line: 60
+[ERROR] [2016-12-10 00:12:22] error too... Class: cz.codecamp.logger.LoggerTester line: 60
+[ERROR] [2016-56-10 00:56:25] hokus pokus Class: cz.codecamp.logger.LoggerTester line: 60
